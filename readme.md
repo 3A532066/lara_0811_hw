@@ -1,4 +1,4 @@
-CUT LARA workshop
+NCUT LARA workshop
  Homework2
  主要檔案:
 # NCUT LARA Workshop
