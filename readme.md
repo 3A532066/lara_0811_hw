@@ -1,6 +1,3 @@
-NCUT LARA workshop
- Homework2
- 主要檔案:
 # NCUT LARA Workshop
 ## Homework (lara_0811_hw)
 ### 主要修改檔案：
